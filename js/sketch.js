@@ -9,6 +9,7 @@ function setup() {
 
   noStroke();
   noLoop();
+  
 }
 
 function draw() {
